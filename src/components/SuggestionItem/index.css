@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+
+  padding: 1px;
+}
+.arrow {
+  width: 20px;
+}
